@@ -19,7 +19,7 @@ describe("Teste Cypress com uso de Test Data", () => {
     // Adicionar no carrinho
     cy.get(':nth-child(2) > [data-testid="bagButton"]').should("exist").click();
 
-    // Valide o produto no carrinho (você pode adicionar verificações aqui)
+    // Valide o produto no carrinho
     cy.get('.BasketItem').should("exist");
   });
 });
