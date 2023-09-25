@@ -2,7 +2,7 @@ const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   e2e: {
-    baseUrl: "https://www.saucedemo.com",
+    baseUrl: "https://www.magazineluiza.com.br/",
     defaultCommandTimeout: 30000,
     viewportHeight: 660,
     viewportWidth: 1000,
