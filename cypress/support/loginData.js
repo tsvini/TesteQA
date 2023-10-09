@@ -1,6 +1,6 @@
   const loginData = {
-  nome: "tsvini17@gmail.com",
-  senha:"Tijolo10",
+  nome: ">seu login<",
+  senha:">Sua Senha<",
   Botaologin:"#login-box-form-continue",
   site: "https://sacola.magazineluiza.com.br/#/cliente/login/?next=https%3A//www.magazineluiza.com.br/&origin=magazineluiza",
   item: "copo",
